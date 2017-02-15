@@ -1,4 +1,4 @@
-# Damn Vulnerable Web Service Docker container
+# Damn Vulnerable Web Service Docker Container
 [![Docker Pulls](https://img.shields.io/docker/pulls/cyrivs89/web-dvws.svg?style=plastic)](https://hub.docker.com/r/cyrivs89/web-dvws/)
 ![License](https://img.shields.io/badge/License-GPL-blue.svg?style=plastic)
 
